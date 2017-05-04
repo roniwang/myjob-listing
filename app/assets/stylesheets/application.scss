@@ -80,7 +80,7 @@
 //---------Box---------
 
 .box {
-    background-image: url("header.jpg");
+    background-image: image-url("header.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 50px;
@@ -144,7 +144,7 @@
 /*===== 合作伙伴 ====*/
 .our-brand{
     background-color: #F2F2F2;
-  
+
     img{
       margin: 25px 15px 35px 15px;
       width: 150px;
